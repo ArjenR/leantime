@@ -68,6 +68,7 @@ module.exports = function (grunt) {
                     "node_modules/tinymce/tinymce.js",
                     "node_modules/tinymce/jquery.tinymce.js",
                     "node_modules/tinymce/themes/silver/theme.js",
+                    "node_modules/tinymce/icons/default.js"
                     "node_modules/tinymce/plugins/autolink/plugin.js",
                     "node_modules/tinymce/plugins/link/plugin.js",
                     "node_modules/tinymce/plugins/textcolor/plugin.js",
